@@ -17,7 +17,7 @@ Follow these steps to get started quickly:
 3. **Download the Model**  
   Set the Hugging Face endpoint and download the deepseek-r1-distill-llama-8b model:
    ```bash
-   HF_ENDPOINT=https://hf-mirror.com huggingface-cli download deepseek-ai/deepseek-r1-distill-llama-8b --local-dir ./deepseek-r1-distill-llama-8b --resume-download --cache-dir ./cache
+   modelscope download --model deepseek-ai/DeepSeek-R1-Distill-Qwen-7B --local_dir ./DeepSeek-R1-Distill-Qwen-7B
 
 4. **Run the Notebook**  
   Open and run the deepseek-r1-distill-llama-8b.ipynb notebook to start fine-tuning the model.
