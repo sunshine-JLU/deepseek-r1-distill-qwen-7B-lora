@@ -5,9 +5,9 @@ Follow these steps to get started quickly:
 1. **Clone the Repository**  
    Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/sunshine-JLU/deepseek-r1-distill-llama-8b-lora.git
+   git clone https://github.com/sunshine-JLU/deepseek-r1-distill-qwen-7B-lora.git
 
-   cd deepseek-r1-distill-llama-8b-lora
+   cd deepseek-r1-distill-qwen-7B-lora
 
    
 2. **Enviroment**  
