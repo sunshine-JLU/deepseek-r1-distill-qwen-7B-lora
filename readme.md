@@ -20,10 +20,10 @@ Follow these steps to get started quickly:
    modelscope download --model deepseek-ai/DeepSeek-R1-Distill-Qwen-7B --local_dir ./DeepSeek-R1-Distill-Qwen-7B
 
 4. **Run the Notebook**  
-  Open and run the deepseek-r1-distill-llama-8b.ipynb notebook to start fine-tuning the model.
+  Open and run the DeepSeek-R1-Distill-Qwen-7B.ipynb notebook to start fine-tuning the model.
 
 5. **Run the lora-model in the lora_model_inference.ipynb**  
-  After you successfully run over the deepseek-r1-distill-llama-8b.ipynb, You will get a number of checkpoint files, each file is a lora weight that can be loaded independently, you can specify the lora file address in the lora_model_inference.ipynb to load and run.
+  After you successfully run over the DeepSeek-R1-Distill-Qwen-7B.ipynb, You will get a number of checkpoint files, each file is a lora weight that can be loaded independently, you can specify the lora file address in the lora_model_inference.ipynb to load and run.
 ![1738867391045](https://github.com/user-attachments/assets/65530629-32fb-415f-9a8e-e3cadabb90e1)
 
 
