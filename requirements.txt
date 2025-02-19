@@ -1,10 +1,10 @@
-torch==2.3.0+cu121
-transformers==4.46.0
+torch==2.5.1
+transformers==4.49.0
 peft==0.14.0
 trl==0.14.0
 pandas==2.2.3
 datasets==3.2.0
-tokenizers==0.20.3
-bitsandbytes==0.45.2
-huggingface_hub
+vllm==0.7.2
+tokenizers==0.21.0
 modelscope
+huggingface_hub
